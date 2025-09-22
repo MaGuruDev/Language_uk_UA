@@ -23,7 +23,7 @@
   ],
   "require": {},
   "type": "magento2-module",
-  "version": "1.0.2-beta",
+  "version": "1.0.2",
   "autoload": {
     "files": [
       "registration.php"
