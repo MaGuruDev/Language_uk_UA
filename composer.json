@@ -1,0 +1,32 @@
+{
+  "name": "maguru/magento2-language-uk-ua",
+  "description": "Magento2 Ukrainian Language Pack (uk_UA)",
+  "keywords": [
+    "magento 2",
+    "maguru language pack",
+    "i18n",
+    "uk_UA"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "support": {
+    "email": "maguru.sup@gmail.com",
+    "issues": "https://github.com/MaGuruDev/Language_uk_UA/issues"
+  },
+  "authors": [
+    {
+      "name": "Andrii Zakharchuk",
+      "email": "maguru.sup@gmail.com",
+      "role": "Leader"
+    }
+  ],
+  "require": {},
+  "type": "magento2-module",
+  "version": "1.0.1",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
