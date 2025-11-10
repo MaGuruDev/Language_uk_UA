@@ -1,4 +1,4 @@
-# MaGuru MaGuru_uk_UA for Magento 2
+# MaGuru Language Pack uk_UA for Magento 2
 
 ![Magento 2](https://img.shields.io/badge/Magento-2.4%2B-brightgreen)
 [![First Beta Version](https://poser.pugx.org/maguru/magento2-language-uk-ua/v/stable)](https://packagist.org/packages/maguru/magento2-language-uk-ua)

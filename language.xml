@@ -8,7 +8,7 @@
 -->
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>uk_UA</code>
-    <vendor>MaGuru</vendor>
-    <package>uk_UA</package>
+    <vendor>maguru</vendor>
+    <package>uk_ua</package>
     <sort_order>1</sort_order>
 </language>

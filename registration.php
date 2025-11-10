@@ -6,6 +6,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'MaGuru_language_uk_UA',
+    'maguru_uk_ua',
     __DIR__
 );
