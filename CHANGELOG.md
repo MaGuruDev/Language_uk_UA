@@ -10,3 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - All initial module functionalities
+
+## [1.0.4] - 2025-11-10
+
+### Update
+
+- Created stable version
