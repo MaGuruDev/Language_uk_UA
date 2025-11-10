@@ -1,7 +1,7 @@
 # MaGuru Language Pack uk_UA for Magento 2
 
 ![Magento 2](https://img.shields.io/badge/Magento-2.4%2B-brightgreen)
-[![First Beta Version](https://poser.pugx.org/maguru/magento2-language-uk-ua/v/stable)](https://packagist.org/packages/maguru/magento2-language-uk-ua)
+[![Stable Version](https://poser.pugx.org/maguru/magento2-language-uk-ua/v/stable)](https://packagist.org/packages/maguru/magento2-language-uk-ua)
 [![Total Downloads](https://poser.pugx.org/maguru/magento2-language-uk-ua/downloads)](https://packagist.org/packages/maguru/magento2-language-uk-ua)
 
 <img width="150" height="100" src="documentation/images/made_in_ukraine.jpeg">
@@ -26,7 +26,7 @@
 #### 1.1 Install
 
 ```
-composer require maguru/magento2-language-uk-ua:1.0.5
+composer require maguru/magento2-language-uk-ua:1.0.6
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
@@ -34,7 +34,7 @@ php bin/magento setup:static-content:deploy
 #### 1.2 Upgrade
 
 ```
-composer update maguru/magento2-language-uk-ua:1.0.5
+composer update maguru/magento2-language-uk-ua:1.0.6
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
