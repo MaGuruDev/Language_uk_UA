@@ -10,9 +10,10 @@
 
 > Ukrainian translation for Magento 2. Translation uk_UA (Ukrainian (Ukraine)).
 
-## Requirements
+## Supported Magento versions
 
-* Magento Community Edition 2.1.x-2.4.x or Magento Enterprise Edition 2.1.x-2.4.x
+- ✅ Magento 2.4.0 - 2.4.7+
+- ✅ Magento 2.3.x (limited support)
 
 ## How to install & upgrade MaGuru_uk_UA
 
@@ -25,7 +26,7 @@
 #### 1.1 Install
 
 ```
-composer require maguru/magento2-language-uk-ua
+composer require maguru/magento2-language-uk-ua:1.0.5
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
@@ -33,7 +34,7 @@ php bin/magento setup:static-content:deploy
 #### 1.2 Upgrade
 
 ```
-composer update maguru/magento2-language-uk-ua
+composer update maguru/magento2-language-uk-ua:1.0.5
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
