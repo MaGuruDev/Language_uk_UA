@@ -26,7 +26,7 @@
 #### 1.1 Install
 
 ```
-composer require maguru/magento2-language-uk-ua:1.0.6
+composer require maguru/magento2-language-uk-ua:1.0.7
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
@@ -34,7 +34,7 @@ php bin/magento setup:static-content:deploy
 #### 1.2 Upgrade
 
 ```
-composer update maguru/magento2-language-uk-ua:1.0.6
+composer update maguru/magento2-language-uk-ua:1.0.7
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
