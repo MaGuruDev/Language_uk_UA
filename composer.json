@@ -22,10 +22,11 @@
     }
   ],
   "require": {
-    "magento/framework": ">=101.0.0"
+    "magento/framework": ">=101.0.0",
+    "maguru/magento2-core": "^1.0.1"
   },
   "type": "magento2-language",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "autoload": {
     "files": [
       "registration.php"
